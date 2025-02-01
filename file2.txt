@@ -1,0 +1,2 @@
+menambahkan isi file2.txt untuk praktik git amend
+menambah isi file2 dengan git amend
