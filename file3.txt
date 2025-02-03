@@ -1,1 +1,1 @@
-belajar git revert
+praktik git revert
