@@ -2,5 +2,6 @@ menambahkan isi file2.txt untuk praktik git amend
 menambah isi file2 dengan git amend
 menambahkan isi file2 untuk praktik versi file sebelumnya oleh ahmadgitgit 
 Ahmad praktik merge conflict
+Ahmad belajar mengunakan cherry pick di file2.txt
 praktik git rebase oleh Ahmad
 praktik git squash oleh Ahmad
