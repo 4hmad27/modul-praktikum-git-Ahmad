@@ -1,3 +1,4 @@
 belajar git revert
 Ahmad belajar mengunakan cherry pick di file3.txt
 praktik git rebase oleh Ahmad
+praktik git squash oleh Ahmad

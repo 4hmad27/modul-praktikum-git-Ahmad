@@ -3,3 +3,4 @@ menambah isi file2 dengan git amend
 menambahkan isi file2 untuk praktik versi file sebelumnya oleh ahmadgitgit 
 Ahmad praktik merge conflict
 praktik git rebase oleh Ahmad
+praktik git squash oleh Ahmad
