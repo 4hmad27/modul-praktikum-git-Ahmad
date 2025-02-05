@@ -1,4 +1,5 @@
 menambahkan isi file2.txt untuk praktik git amend
 menambah isi file2 dengan git amend
 menambahkan isi file2 untuk praktik versi file sebelumnya oleh ahmadgitgit 
-Ahmad belajar merge conflict
+Ahmad praktik merge conflict
+praktik git squash oleh Ahmad

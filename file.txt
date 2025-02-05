@@ -1,2 +1,5 @@
 git modul ini dibuat oleh Ahmad Afan shobari
-Ahmad belajar merge conflict
+Ahmad praktik merge conflict
+Ahmad belajar mengunakan cherry pick di file1.txt
+belajar mengunakan stash oleh Ahmad
+belajar git squash oleh Ahmad
